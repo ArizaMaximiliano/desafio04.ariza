@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"title": "Title01",
+		"description": "Actualizacion",
+		"code": "abc123",
+		"price": 299,
+		"status": true,
+		"stock": "20",
+		"category": "test",
+		"thumbnail": [
+			"test.jpg",
+			"test01.png"
+		]
+	},
+	{
+		"id": 2,
+		"title": "Title02",
+		"description": "test",
+		"code": "abc124",
+		"price": 299,
+		"status": true,
+		"stock": "5",
+		"category": "test",
+		"thumbnail": [
+			"test.jpg",
+			"test01.png"
+		]
+	},
+	{
+		"id": 3,
+		"title": "Title03",
+		"description": "test",
+		"code": "abc125",
+		"price": 299,
+		"status": true,
+		"stock": "1",
+		"category": "test",
+		"thumbnail": [
+			"test.jpg",
+			"test01.png"
+		]
+	},
+	{
+		"id": 4,
+		"title": "Title04",
+		"description": "test",
+		"code": "abc126",
+		"price": 299,
+		"status": true,
+		"stock": "1",
+		"category": "test",
+		"thumbnail": [
+			"test.jpg",
+			"test01.png"
+		]
+	},
+	{
+		"id": 5,
+		"title": "Title05",
+		"description": "test",
+		"code": "abc127",
+		"price": 299,
+		"status": true,
+		"stock": "1",
+		"category": "test",
+		"thumbnail": [
+			"test.jpg",
+			"test01.png"
+		]
+	}
+]
